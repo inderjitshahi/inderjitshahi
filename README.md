@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inderjitshahi
 - 👀 I’m interested in web development, competitive programming and machine learning.
-- 🌱 I’m currently learning Javascript, React, C++, Machine Learning, UX degining
-- 💞️ I’m looking to collaborate on javascripts and web development
+- 🌱 I’m currently learning Javascript, React, C++, Machine Learning, UX degining.
+- 💞️ I’m looking to collaborate on web development and ML related projects.
 - 📫  reach me at inderjeetkmcs@gmail.com
 
 <!---
