@@ -1,6 +1,7 @@
+[![MasterHead](https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc)]
 <h1 align="center">Hi 👋, I'm Inderjit Shahi</h1>
 <h3 align="center">A passionate MERN developer and Competitive Programmer from India</h3>
-<img align="right" alt="Profile" width="400" src="https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc">
+<!-- <img align="right" alt="Profile" width="400" src="https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderjitshahi&label=Profile%20views&color=0e75b6&style=flat" alt="inderjitshahi" /> </p>
 
