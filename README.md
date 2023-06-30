@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Inderjit Shahi</h1>
 <h3 align="center">A passionate MERN developer and Competitive Programmer from India</h3>
 <p align="center">
-  <a href="https://port-folio-vxwv.vercel.app/"><img  alt="Profile" width="100%" src="https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc">
+  <a href="https://inderjitshahi.vercel.app/"><img  alt="Profile" width="100%" src="https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc">
 </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [MILAAN](https://github.com/inderjitshahi/milaan)
 
-- 👨‍💻 All of my projects are available at [https://port-folio-vxwv.vercel.app/](https://port-folio-vxwv.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://inderjitshahi.vercel.app/](https://inderjitshahi.vercel.app/)
 
 - 📝 I regularly write articles on [https://is-blog.vercel.app/](https://is-blog.vercel.app/)
 
