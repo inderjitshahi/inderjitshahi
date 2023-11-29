@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inderjitshahi" alt="inderjitshahi" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://inderjitshahi.vercel.app/](https://inderjitshahi.vercel.app/)
-- 
+  
 - 🔭 I’m currently working on [CourseCove](https://coursecove.vercel.app/)
 
 - 🌱 I’m currently learning **Amazon Web Services and Expanding Knowledge in MERN Development and Software Development**
