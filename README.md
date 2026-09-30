@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://drive.google.com/uc?id=1zqh_8dguVtpXr6hgnKZEr6ENNh1JgVIc)] -->
 <h1 align="center">Hi 👋, I'm Inderjit Shahi</h1>
-<h3 align="center">A passionate MERN developer and Competitive Programmer from India</h3>
+<h3 align="center">Software engineer</h3>
 <p align="center">
   <a href="https://inderjitshahi.vercel.app/"><img  alt="Profile" width="100%" src="https://drive.google.com/uc?id=13bETqvkP87wp9Az6nR_A7jv5Bg-4AWba">
 </a>
